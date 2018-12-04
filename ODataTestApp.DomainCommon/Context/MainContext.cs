@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ODataTestApp
+namespace ODataTestApp.DomainCommon.Context
 {
-    public class Program
+    public class MainContext
     {
-        public static void Main(string[] args)
-        {
-        }
     }
 }

@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ODataTestApp
+namespace ODataTestApp.DomainCommon.Models
 {
-    public class Program
+    public class Model : BaseModel
     {
-        public static void Main(string[] args)
-        {
-        }
     }
 }
